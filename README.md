@@ -85,7 +85,7 @@ Follow these steps to run the project locally.
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/devsarthak-1503/FarmerSolutions.git
+    git clone https://github.com/devsarthak-1503/Farmer_One_Stop_Solution.git
     cd FarmerSolutions
     ```
 
