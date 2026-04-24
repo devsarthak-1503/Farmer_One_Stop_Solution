@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[Check out Farmer Solutions](https://farmerones.vercel.app/) \*
+[Check out Farmer Solutions](https://farmer-solutions-ten.vercel.app/) \*
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Tech Stack](https://img.shields.io/badge/stack-MERN-blue)
